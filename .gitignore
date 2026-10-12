@@ -1,0 +1,7 @@
+# Large downloads are uploaded as GitHub Release assets.
+downloads/*
+!downloads/.gitkeep
+.publish/
+*.log
+Thumbs.db
+Desktop.ini
