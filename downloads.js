@@ -2,7 +2,7 @@
 const downloads = [
     {
         "name":  "图吧工具箱202502.zip",
-        "url":  "downloads/%E5%9B%BE%E5%90%A7%E5%B7%A5%E5%85%B7%E7%AE%B1202502.zip",
+        "url":  "https://github.com/MianMuYinHui/MianMuWeb/releases/download/downloads/tubatu-toolbox-202502.zip",
         "size":  235062223,
         "folder":  ""
     }
